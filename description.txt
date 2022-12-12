@@ -1,0 +1,10 @@
+Create player:
+- create KinematicBody2d (root node);
+- add Sprite;
+- add CollisionShape2D;
+- in "CollisionShape2D - Shape" choice the shape;
+- add script to KinematicBody.
+
+Create tilemap:
+- add TileMap node;
+- in "TileMap - TileSet" add new TileSet and click him;
